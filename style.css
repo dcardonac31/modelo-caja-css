@@ -1,0 +1,21 @@
+/* solid
+dotted
+double
+dashed
+groove
+ridge
+inset
+outset */
+
+/* padding: superior derecha inferior izquierda
+marging: superior derecha inferior izquierda
+border-radius: superior derecha inferior izquierda */
+
+div {
+    padding: 25px 5px 6px 4px;
+    border: 5px solid green;
+    border-bottom: 10px solid black;
+    border-radius: 5% 10% 20px 5px;
+    margin: 5px;
+    margin-bottom: 35px;
+}
